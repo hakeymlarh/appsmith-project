@@ -4,7 +4,7 @@
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "bottomRow": 32,
   "boxShadow": "none",
-  "defaultOptionValue": "Zainuddin",
+  "defaultOptionValue": "Operator Name",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
@@ -31,7 +31,7 @@
   "key": "k5br6e8wpk",
   "labelAlignment": "left",
   "labelPosition": "Auto",
-  "labelText": "Authorized Supervisor",
+  "labelText": "Report by",
   "labelTextSize": "0.875rem",
   "labelWidth": 5,
   "leftColumn": 0,
