@@ -1,0 +1,57 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "alignment": "left",
+  "animateLoading": true,
+  "bottomRow": 24,
+  "boxShadow": "none",
+  "defaultOptionValue": "B",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "flexVerticalAlignment": "start",
+  "isDisabled": false,
+  "isInline": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "fttn15fnnp",
+  "label": "Application Type",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "mobileBottomRow": 13,
+  "mobileLeftColumn": 44,
+  "mobileRightColumn": 64,
+  "mobileTopRow": 7,
+  "needsErrorInfo": false,
+  "options": [
+    {
+      "label": "Service",
+      "value": "S"
+    },
+    {
+      "label": "Breakdown",
+      "value": "B"
+    }
+  ],
+  "originalBottomRow": 24,
+  "originalTopRow": 18,
+  "parentColumnSpace": 11.46875,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 27,
+  "topRow": 18,
+  "type": "RADIO_GROUP_WIDGET",
+  "version": 1,
+  "widgetId": "vx2434etrx",
+  "widgetName": "breakdowntype"
+}

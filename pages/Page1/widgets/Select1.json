@@ -1,0 +1,61 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 32,
+  "boxShadow": "none",
+  "defaultOptionValue": "Zainuddin",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isFilterable": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "k5br6e8wpk",
+  "labelAlignment": "left",
+  "labelPosition": "Auto",
+  "labelText": "Authorized Supervisor",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 29,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 27,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 20,
+  "mobileTopRow": 20,
+  "needsErrorInfo": false,
+  "optionLabel": "code",
+  "optionValue": "code",
+  "originalBottomRow": 32,
+  "originalTopRow": 25,
+  "parentColumnSpace": 11.46875,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "placeholderText": "Select option",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 64,
+  "serverSideFiltering": false,
+  "sourceData": "[\n  {\n    \"code\": \"Zainuddin\"\n  },\n  {\n    \"code\": \"Muhamad Anif\"\n  },\n  {\n    \"code\": \"Rosli\"\n  }\n]",
+  "topRow": 25,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "cfiisw60xf",
+  "widgetName": "Select1"
+}

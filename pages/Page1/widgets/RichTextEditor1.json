@@ -1,0 +1,51 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 57,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "defaultText": "Please describe machine component and nature of breakdown.",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "flexVerticalAlignment": "start",
+  "inputType": "markdown",
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "kx4lb6vs5z",
+  "labelAlignment": "left",
+  "labelPosition": "Auto",
+  "labelText": "Nature of Breakdown",
+  "labelWidth": 5,
+  "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 41,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 9,
+  "mobileTopRow": 21,
+  "needsErrorInfo": false,
+  "originalBottomRow": 57,
+  "originalTopRow": 33,
+  "parentColumnSpace": 11.46875,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 64,
+  "topRow": 33,
+  "type": "RICH_TEXT_EDITOR_WIDGET",
+  "version": 1,
+  "widgetId": "vhaxk09sua",
+  "widgetName": "RichTextEditor1"
+}
