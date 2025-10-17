@@ -4,7 +4,7 @@
   "animateLoading": true,
   "bottomRow": 24,
   "boxShadow": "none",
-  "defaultOptionValue": "B",
+  "defaultOptionValue": "Breakdown",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
@@ -35,11 +35,11 @@
   "options": [
     {
       "label": "Service",
-      "value": "S"
+      "value": "Service"
     },
     {
       "label": "Breakdown",
-      "value": "B"
+      "value": "Breakdown"
     }
   ],
   "originalBottomRow": 24,

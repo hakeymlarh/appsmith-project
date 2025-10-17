@@ -35,8 +35,8 @@
   "mobileRightColumn": 9,
   "mobileTopRow": 21,
   "needsErrorInfo": false,
-  "originalBottomRow": 64,
-  "originalTopRow": 40,
+  "originalBottomRow": 57,
+  "originalTopRow": 33,
   "parentColumnSpace": 11.46875,
   "parentId": "0",
   "parentRowSpace": 10,
@@ -47,5 +47,5 @@
   "type": "RICH_TEXT_EDITOR_WIDGET",
   "version": 1,
   "widgetId": "vhaxk09sua",
-  "widgetName": "RichTextEditor1"
+  "widgetName": "Breakdwon"
 }

@@ -1,0 +1,11 @@
+{
+  "serial_no": {{ "BD-" + Math.floor(1000 + Math.random() * 9000) }},
+  "machine_id": {{MachineCode.selectedOptionLabel}},
+  "type": {{breakdowntype.selectedOptionValue}},
+  "date_reported": {{ moment.tz("Asia/Kuala_Lumpur").format("YYYY-MM-DD") }},
+  "time_reported": {{ moment.tz("Asia/Kuala_Lumpur").format("HH:mm:ss") }},
+  "reported_by": {{ Operator.selectedOptionLabel }},
+  "supervisor": {{Supervisor.selectedOptionLabel}} ,
+  "nature_of_breakdown": {{Breakdwon.text}},
+  "status": New
+}
