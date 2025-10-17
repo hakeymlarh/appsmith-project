@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 57,
+  "bottomRow": 64,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "defaultText": "Please describe machine component and nature of breakdown.",
   "dynamicBindingPathList": [
@@ -43,7 +43,7 @@
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
   "rightColumn": 64,
-  "topRow": 33,
+  "topRow": 40,
   "type": "RICH_TEXT_EDITOR_WIDGET",
   "version": 1,
   "widgetId": "vhaxk09sua",

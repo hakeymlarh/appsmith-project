@@ -1,23 +1,23 @@
 {
-  "gitSyncId": "68b8e9f81b3ea96e5e24b90f_5961952e-12d0-44fd-af33-8d2694b17e2a",
+  "gitSyncId": "68f0ae5bef9191718db5c395_51f5ee8a-4e59-4210-8b8b-e396d3fa9525",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 680,
+          "bottomRow": 420,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
-          "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 470,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 45,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 94,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "Login page",
+    "slug": "login-page"
   }
 }
